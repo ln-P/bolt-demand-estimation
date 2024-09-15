@@ -1,0 +1,21 @@
+name: bolt-demand
+
+channels:
+  - conda-forge
+  - defaults
+  
+dependencies:
+  - black
+  - flake8
+  - isort
+  - pip
+  - pandas==2.2.2 
+  - python==3.11
+  - jupyter
+  - folium
+  - scikit-learn
+  - numpy
+  - statsmodels
+  - prophet
+  - xgboost
+  - folium
